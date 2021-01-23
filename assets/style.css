@@ -1,0 +1,30 @@
+header {
+    height: 75px;
+    justify-content: center;
+    background-color: rgb(59, 59, 124);
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.history {
+    background-color: lightgray;
+}
+
+img {
+    width: 75px;
+}
+
+.forecast-card {
+    margin: auto;
+    padding: 10px;
+    border: ;
+}
+
+h3 {
+    width: auto;
+}
